@@ -1,7 +1,18 @@
 
 
 
-C 语言 https://www.w3cschool.cn/c/
+C  https://www.w3cschool.cn/c/
+https://tool.lu/coderunner
+
+CMake：CMake是一个免费的多平台编译工具，旨在构建、测试和软件打包。
+CMake是用于控制软件使用简单的平台和编译器编译过程独立配置文件。
+CMake生成本机makefile和工作区，可以使用您所选择的编译器环境。
+
+C-Free：C-Free是一款支持多种编译器的专业化C/C++集成开发环境(IDE)。
+利用本软件，使用者可以轻松地编辑、编译、连接、运行、调试C/C++程序。
+C-Free 4 较之前的版本有巨大改进。
+
+
 
 C 简介 01
 C 环境设置 02 

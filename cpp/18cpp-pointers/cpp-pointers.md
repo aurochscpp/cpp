@@ -38,3 +38,32 @@ char   *ch     /* 一个字符型的指针 */
 这些是通过使用一元运算符 * 来返回位于操作数所指定地址的变量的值。
 
 
+
+
+C++ 指针详解
+在 C++ 中，有很多指针相关的概念，这些概念都很简单，但是都很重要。
+下面列出了 C++ 程序员必须清楚的一些与指针相关的重要概念：
+
+概念	            描述
+C++ Null 指针	    C++ 支持空指针。NULL 指针是一个定义在标准库中的值为零的常量。
+https://www.w3cschool.cn/cpp/cpp-null-pointers.html
+
+C++ 指针的算术运算	 可以对指针进行四种算术运算：++、--、+、-
+https://www.w3cschool.cn/cpp/cpp-pointer-arithmetic.html
+
+C++ 指针 vs 数组	指针和数组之间有着密切的关系。
+https://www.w3cschool.cn/cpp/cpp-pointers-vs-arrays.html
+
+C++ 指针数组	    可以定义用来存储指针的数组。
+https://www.w3cschool.cn/cpp/cpp-array-of-pointers.html
+
+C++ 指向指针的指针	C++ 允许指向指针的指针。
+https://www.w3cschool.cn/cpp/cpp-pointer-to-pointer.html
+
+C++ 传递指针给函数	通过引用或地址传递参数，使传递的参数在调用函数中被改变。
+https://www.w3cschool.cn/cpp/cpp-passing-pointers-to-functions.html
+
+C++ 从函数返回指针	C++ 允许函数返回指针到局部变量、静态变量和动态内存分配。
+https://www.w3cschool.cn/cpp/cpp-return-pointer-from-functions.html
+
+
